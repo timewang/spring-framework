@@ -5,6 +5,7 @@ pluginManagement {
 		maven {url 'https://maven.aliyun.com/repository/jcenter'}
 		maven {url 'https://maven.aliyun.com/repository/google'}
 		maven { url 'https://repo.spring.io/plugins-release' }
+		maven { url 'http://www.eclipse.org/downloads/download.php?r=1&nf=1&file=/rt/eclipselink/maven.repo' }
 	}
 }
 
